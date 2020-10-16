@@ -11,5 +11,5 @@ test script with `-v`.
 
 ## Hint
 
-Remember: the hashtable key should be the thing you want to search
+Remember: the hashtable key should be the thing you want to search commit test
 quickly on! The value is what you want to get back from that search.
